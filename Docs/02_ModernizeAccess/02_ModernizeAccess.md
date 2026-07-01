@@ -1,3 +1,10 @@
+---
+title: 'Exercise 02: Modernize access to any app'
+layout: default
+nav_order: 4
+has_children: true
+---
+
 # Exercise 02: Modernize access to any app
 
 ## Scenario

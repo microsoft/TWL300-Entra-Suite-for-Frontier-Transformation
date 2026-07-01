@@ -1,3 +1,10 @@
+---
+title: 'Task 01: Role transfer and automatic provisioning'
+layout: default
+nav_order: 1
+parent: 'Exercise 01: Enforce least privileged access'
+---
+
 # Exercise 01: Enforce least privileged access
 
 ## Scenario
