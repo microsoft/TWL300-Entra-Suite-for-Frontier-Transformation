@@ -3,7 +3,7 @@ description: This lab will guide you through the process of creating a Cloud Use
 
 aux_links:
   "TechLab: Entra Suite for Frontier Transformation": 
-    - "https://github.com/microsoft/TWL300-Entra-Suite-for-Frontier-Transformation"
+    - "https://github.com/microsoft/TWL300-Entra-Suite-for-Frontier-Transformation/"
 
 callouts_level: quiet # or loud
 callouts:
