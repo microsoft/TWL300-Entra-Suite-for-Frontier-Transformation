@@ -2,7 +2,7 @@
 title: 'Task 01: Role transfer and automatic provisioning'
 layout: default
 nav_order: 3
-parent: 'Exercise 01: Enforce least privileged access'
+has_children: true
 ---
 
 # Exercise 01: Enforce least privileged access
