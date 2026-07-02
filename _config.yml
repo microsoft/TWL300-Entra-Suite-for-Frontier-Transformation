@@ -1,5 +1,6 @@
 title: TechLab Entra Suite for Frontier Transformation
 description: This lab will guide you through the process of creating a Cloud User Account (CUA) with Windows 365 for Agents. You will learn how to set up and configure the necessary components to enable secure access and management of your organization's resources.
+theme: just-the-docs
 
 aux_links:
   "TechLab: Entra Suite for Frontier Transformation": 
